@@ -31,7 +31,7 @@ POSSIBILITY OF SUCH DAMAGE.
 package cmd
 
 import (
-	"mg-geojson/parser"
+	"github.com/tsirysndr/mg-geojson/parser"
 
 	"github.com/spf13/cobra"
 )
